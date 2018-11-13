@@ -37,60 +37,44 @@ model.py is used to use the pretrained model, and make prediction on the unseen 
 These prediction are saved in a file with a sequence header.
 
 ![prediction](https://user-images.githubusercontent.com/29139858/48424825-7941bb00-e79e-11e8-9567-45e386d02c3d.JPG)
-```
-
 
 
 ```
+app.py
+```
+app.py is used to initiate and launch the webserver
+
+![prediction](https://user-images.githubusercontent.com/29139858/48427960-f708c500-e7a4-11e8-9e81-75ee2a4f63b1.JPG)
+
+
+
+
+
+
+```
+Copy this URL to the browser, and launch... 
+```
+
+![prediction](https://user-images.githubusercontent.com/29139858/48427967-f839f200-e7a4-11e8-81ae-129c65afc661.JPG)
+
+
+
+
+
+
+
+```
+Copy and past .fasta sequence and paste here in the textarea , and click on the prediction button.
+```
+
+![prediction](https://user-images.githubusercontent.com/29139858/48427965-f7a15b80-e7a4-11e8-8548-029a2995d92f.JPG)
+
 And repeat
 
 ```
 until finished
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
@@ -98,4 +82,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+* etc.. and all manuscript proofreading, and other encouragment... 
+```
+Farman Ali (njust), Yasir, Izhar
+```
+
