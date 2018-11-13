@@ -66,17 +66,12 @@ Copy this URL to the browser, and launch...
 
 
 
-```
 Copy and past .fasta sequence and paste here in the textarea , and click on the prediction button.
-```
 
 ![prediction](https://user-images.githubusercontent.com/29139858/48427965-f7a15b80-e7a4-11e8-8548-029a2995d92f.JPG)
 
-And repeat
 
-```
-until finished
-```
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
