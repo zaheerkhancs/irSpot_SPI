@@ -21,15 +21,7 @@ What things you need to install the software and how to install them
 $pip install <lib_name>
 ```
 
-### Make sure all dependencies are up and running, the propose model was developed using pycharm IDE.
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Example...
-```
+### Runing a model.
 
 ```
 Training.py
@@ -41,7 +33,8 @@ training.py is used for training the model, and saving the model and model weigh
 ```
 model.py
 ```
-training.py is used for training the model, and saving the model and model weights for future pretrained model prediction via model.py
+model.py is used to use the pretrained model, and make prediction on the unseen .fasta sequence.
+These prediction are saved in a file with a sequence header.
 
 ![prediction](https://user-images.githubusercontent.com/29139858/48424825-7941bb00-e79e-11e8-9567-45e386d02c3d.JPG)
 ```
