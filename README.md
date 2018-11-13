@@ -83,8 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc.. and all manuscript proofreading, and other encouragment... 
-### Special thanks to
-```
-Farman Ali (njust), Yasir, Izhar
-```
+
+:EMOJICODE:
+@All :+1: Farman Ali (njust), Yasir, Izhar
 
