@@ -21,7 +21,7 @@ What things you need to install the software and how to install them
 $pip install <lib_name>
 ```
 
-### Runing a model.
+### Training a model.
 
 ```
 Training.py
@@ -29,6 +29,7 @@ Training.py
 training.py is used for training the model, and saving the model and model weights for future pretrained model prediction via model.py
 
 
+### Making prediction.
 
 ```
 model.py
@@ -38,6 +39,8 @@ These prediction are saved in a file with a sequence header.
 
 ![prediction](https://user-images.githubusercontent.com/29139858/48424825-7941bb00-e79e-11e8-9567-45e386d02c3d.JPG)
 
+
+### iRSpot-SPI WebServer.
 
 ```
 app.py
