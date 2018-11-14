@@ -105,9 +105,9 @@ output_datapath = os.path.join(PROJECT_ROOT_DIR,OUTPUT_FOLDER,"prediction.txt")
 
 prdlabel = ""
 if float(my_pred) > 0.5:
-    prdlabel = "Probability : "+str(my_pred) + "      Predicted: As... HOT"
+    prdlabel = "Probability : "+str(my_pred) + "      Predicted: As... HOTSPOT"
 else:
-    prdlabel = "Probability : "+str(my_pred) + "      Predicted: As... COLD"
+    prdlabel = "Probability : "+str(my_pred) + "      Predicted: As... COLDSPOT"
 
 ftest = 'data/testdata/xtestPred.fasta'
 file = open('prediction.txt',"a+")
