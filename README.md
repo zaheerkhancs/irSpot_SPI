@@ -40,8 +40,6 @@ These prediction are saved in a file with a sequence header.
 ![prediction](https://user-images.githubusercontent.com/29139858/48424825-7941bb00-e79e-11e8-9567-45e386d02c3d.JPG)
 
 
-### iRSpot-SPI WebServer.
-
 
 # License
 
