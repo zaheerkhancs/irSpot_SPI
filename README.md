@@ -42,35 +42,6 @@ These prediction are saved in a file with a sequence header.
 
 ### iRSpot-SPI WebServer.
 
-```
-app.py
-```
-app.py is used to initiate and launch the webserver
-
-![prediction](https://user-images.githubusercontent.com/29139858/48427960-f708c500-e7a4-11e8-9e81-75ee2a4f63b1.JPG)
-
-
-
-
-
-
-```
-Copy this URL to the browser, and launch... 
-```
-
-![prediction](https://user-images.githubusercontent.com/29139858/48427967-f839f200-e7a4-11e8-81ae-129c65afc661.JPG)
-
-
-
-
-
-
-
-Copy and past .fasta sequence and paste here in the textarea , and click on the prediction button.
-
-![prediction](https://user-images.githubusercontent.com/29139858/48427965-f7a15b80-e7a4-11e8-8548-029a2995d92f.JPG)
-
-
 
 # License
 
