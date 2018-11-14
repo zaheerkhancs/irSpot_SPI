@@ -3,7 +3,7 @@
 
 A classification predictive model for descrimination of meotic recombination hotspot and coldspots.
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Following are list of todo, before making run of the propose model.
 
 ### Prerequisites
 #####  Following are the lib need to be installed....
