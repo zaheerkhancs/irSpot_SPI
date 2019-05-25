@@ -42,6 +42,7 @@ These prediction are saved in a file with a sequence header.
 
 
 # License
+Z. U. Khan, D. Pi et al, “iRSpot-SPI: Deep learning-based recombination spots prediction by incorporating secondary sequence information coupled with physio-chemical properties via Chou’s 5-step rule and pseudo components,” Chemom. Intell. Lab. Syst., 2019.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
