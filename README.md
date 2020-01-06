@@ -49,8 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspiration
-* etc.. and all manuscript proofreading, and other encouragment... 
-
-:EMOJICODE:
-@All :+1: Farman Ali (njust), Yasir, Izhar
 
